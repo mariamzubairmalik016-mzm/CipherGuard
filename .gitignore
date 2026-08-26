@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Build Output
+dist/
+frontend/dist/
+build/
+
+# Local Environment & SQLite Database
+.env
+.env.local
+cipherguard.db
+*.db
+*.log
+
+# IDE & System Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.next/
+
